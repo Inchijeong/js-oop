@@ -7,4 +7,4 @@ var kim = {
     }
 }
 console.log("kim.sum(kim.first, kim.second)", kim.sum(kim.first, kim.second));
-console.log("kim.sum(kim.first, kim.second)", kim.sum());
+console.log("kim.sum()", kim.sum());
